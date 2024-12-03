@@ -1,6 +1,4 @@
-# galactic.ai Lab
-
-_This document is meant to be updated as needed. Create a PR for suggestions._
+<img src="galacticai_logo.png" width="400">
 
 ## Mission statement
 
@@ -104,3 +102,6 @@ We use **individual meetings** for personal check-ins.
 * for postdocs: ~every months to review projects and overall career development.
 
 To discuss a specific project (either in the group or individual), we provide documentation of that project (including its README file) in addition to any relevant materials/updates.
+
+----
+_This document is meant to be updated as needed. Create a PR for suggestions._
